@@ -63,9 +63,9 @@
 
 ---
 
-<!-- ABOUT ME - TERMINAL STYLE -->
+<!-- ABOUT ME -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; About Me
+## 🤖 &nbsp; About Me
 
 ```python
 #!/usr/bin/env python3
@@ -106,7 +106,7 @@ print(me.fun_fact())
 
 <!-- EXPERIENCE -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Experience
+## 💼 &nbsp; Experience
 
 <br/>
 
@@ -172,7 +172,7 @@ Full-stack Vehicle Rental Management System with secure auth, booking engine, an
 
 <!-- RESEARCH -->
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> &nbsp; Research
+## 🔬 &nbsp; Research
 
 <br/>
 
@@ -192,7 +192,7 @@ Full-stack Vehicle Rental Management System with secure auth, booking engine, an
 
 <!-- PROJECTS -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Projects
+## 🚀 &nbsp; Projects
 
 <br/>
 
@@ -279,7 +279,7 @@ Graph-based memory orchestration across multi-LLM sessions. MCP-compatible.
 
 <!-- TECH STACK -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Tech Stack
+## 🛠️ &nbsp; Tech Stack
 
 <br/>
 
@@ -333,51 +333,55 @@ Graph-based memory orchestration across multi-LLM sessions. MCP-compatible.
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- RECRUITER SNAPSHOT -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; GitHub Stats
+## 🎯 &nbsp; Recruiter Snapshot
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harishkumard24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true&count_private=true" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumard24&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&stroke=A78BFA" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumard24&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="38%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=harishkumard24&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=harishkumard24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkumard24&bg_color=0D1117&color=A78BFA&line=6366F1&point=F59E0B&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution+Activity)](https://github.com/harishkumard24)
-
-</div>
+### 🟢 &nbsp; Currently Available — Open to AI/ML Internships · SWE Roles · Research Collaborations
 
 <br/>
 
----
+**⚡ Skills & Proficiency**
 
-<!-- SNAKE ANIMATION -->
+| Domain | Skills | Level |
+|--------|--------|-------|
+| **AI / ML** | TensorFlow, scikit-learn, ViT, DANN, MLflow | ████████████ Expert |
+| **Generative AI** | LLMs, RAG Pipelines, ChromaDB, LangChain, Agentic AI | ███████████░ Advanced |
+| **Backend Eng** | Python, REST APIs, SQL, Linux, Bash Automation | ████████████ Expert |
+| **Cloud / DevOps** | AWS, Azure, Docker, Kubernetes, Git | ████████░░░░ Proficient |
+| **Data Science** | Pandas, NumPy, Power BI, Feature Engineering | ███████████░ Advanced |
+| **Languages** | Python, Java, C++, C, JavaScript, SQL | ████████████ Expert |
 
-## 🐍 &nbsp; Contribution Snake
+<br/>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishkumard24/harishkumard24/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishkumard24/harishkumard24/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/harishkumard24/harishkumard24/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+**🏆 Project Impact — At a Glance**
+
+| Project | Impact | Stack |
+|---------|--------|-------|
+| 🧬 Cancer Detection | 99.83% accuracy · 0.9995 AUROC · cross-domain generalization | ViT-B/16 · DANN · TensorFlow |
+| 🔍 RAG Chunking Research | Hallucination rate: 40% → 0% · Recall@10: 92% | RAG · NLP · LLMs |
+| ⚡ Flipkart Pipeline | 2M+ records/run · 30% fewer pricing errors · 40% faster resolution | Python · SQL · Linux |
+| 🕵️ FIR Intelligence | Intent accuracy 93.3% · Routing accuracy 96.7% | Agentic AI · ChromaDB · SQLite |
+| 🧠 ContextBridge | 40% token reduction across multi-LLM sessions | MCP · Graph Memory · LLMs |
+| 📉 Churn Prediction | Recall-optimised pipeline with retention dashboards | scikit-learn · Power BI |
+
+<br/>
+
+**📌 What I Bring**
+
+| | |
+|---|---|
+| 🔬 **Research** | 3 papers (1 published IJRAR · 2 under review) — ViT, RAG, Forecasting |
+| 🏭 **Production** | Real Flipkart production experience at 2M+ record scale |
+| 🧠 **Depth** | First-principles thinker — I find the root cause, not the symptom |
+| 🚀 **Velocity** | M.E. Distinction + 2+ years industry experience in parallel |
+| 🌍 **Location** | Bengaluru · Immediate joiner |
+
 </div>
-
-> **Enable the snake:** Add a GitHub Actions workflow — [click here for the setup guide](https://github.com/Platane/snk)
 
 <br/>
 
@@ -427,6 +431,6 @@ Graph-based memory orchestration across multi-LLM sessions. MCP-compatible.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Build%20Something%20That%20Matters&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Open%20to%20AI%2FML%20Internships%20·%20SWE%20Roles%20·%20Research%20Collaborations&descSize=14&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d2137,1a3a5c,0a1e35&height=200&section=footer&text=Let's%20Build%20Something%20That%20Matters&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Open%20to%20AI%2FML%20Internships%20·%20SWE%20Roles%20·%20Research%20Collaborations&descSize=14&descAlignY=75" width="100%"/>
 
 </div>
