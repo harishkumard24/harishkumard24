@@ -180,7 +180,10 @@ Full-stack Vehicle Rental Management System with secure auth, booking engine, an
 
 <!-- PROJECTS -->
 
-## 🚀 &nbsp; Projects
+<h2>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40">
+  PROJECTS
+</h2>
 
 <br/>
 
