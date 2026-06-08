@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=420&color=timeGradient&text=HARISH%20KUMAR%20D&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descSize=22&descAlignY=66&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=420&color=gradient&customColorList=12,14,18,20,24&text=HARISH%20KUMAR%20D&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descSize=18&descAlignY=66&animation=twinkling" width="100%"/>
 
 </div>
 
