@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=HARISH%20KUMAR%20D&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descSize=18&descAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=420&color=gradient&customColorList=0,2,2,5,30&text=HARISH%20KUMAR%20D&fontSize=90&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descSize=22&descAlignY=66&animation=twinkling" width="100%"/>
 
 </div>
 
