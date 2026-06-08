@@ -181,8 +181,8 @@ Full-stack Vehicle Rental Management System with secure auth, booking engine, an
 <!-- PROJECTS -->
 
 <h2>
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAi/programmer.gif" width="40">
-  PROJECTS
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/linux.gif" width="40">
+  Experience
 </h2>
 
 <br/>
