@@ -417,13 +417,12 @@ Graph-based memory orchestration across multi-LLM sessions. MCP-compatible.
 ---
 
 <!-- OCEAN FOOTER -->
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3000&pause=1000&color=4A9EBF&background=00000000&center=true&vCenter=true&width=700&lines=🌊+Diving+deep+into+AI+%7C+One+commit+at+a+time;🦈+Building+systems+that+think+beyond+training+data;🔬+Research+%2B+Production+%2B+Depth+%3D+Harish;📍+Bengaluru+%7C+Open+to+AI%2FML+Roles+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,071330,0d2847,1a3f6f,0d2847,071330&height=200&section=footer&text=Let's%20Build%20Something%20That%20Matters&fontSize=26&fontColor=7ec8e3&fontAlignY=55&animation=twinkling&desc=Open%20to%20AI%2FML%20Internships%20·%20SWE%20Roles%20·%20Research%20Collaborations&descSize=13&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:001F3F,20:003566,40:00509D,60:0077B6,80:00B4D8,100:90E0EF&text=Let's%20Build%20Something%20That%20Matters&fontSize=28&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=Open%20to%20AI%2FML%20Internships%20•%20SWE%20Roles%20•%20Research%20Collaborations&descSize=13&descAlignY=75" width="100%"/>
 
 </div>
