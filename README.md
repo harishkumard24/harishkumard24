@@ -1,34 +1,23 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=HARISH%20KUMAR%20D&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descSize=18&descAlignY=65&animation=twinkling" width="100%"/>
+
 </div>
 
+<!-- SOCIAL LINKS ROW -->
 <div align="center">
+<br/>
 
-# HARISH KUMAR D
-
-### `Software Engineer` &nbsp;·&nbsp; `AI / ML Engineer` &nbsp;·&nbsp; `Researcher`
-
-*Building systems that process millions — and models that think in patterns*
-
-[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harishkumard12)
-[![Email](https://img.shields.io/badge/─────%20Email%20─────-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harishkumard12@gmail.com)
-[![GitHub](https://img.shields.io/badge/─────%20GitHub%20─────-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harishkumard24)
-
-📍 Bengaluru, India &nbsp;|&nbsp; 🎓 M.E. CS @ MSIS Manipal &nbsp;|&nbsp; 🟢 **Open to Opportunities**
-
-</div>
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/harishkumard12)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishkumard12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishkumard24)
+[![Profile Views](https://komarev.com/ghpvc/?username=harishkumard24&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/harishkumard24)
 
 <br/>
 
-<!--  ═══════════════  NUMBERS THAT MATTER  ═══════════════ -->
-
-<div align="center">
-
-| &nbsp;&nbsp;&nbsp;&nbsp;`2 M+`&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;`30%`&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;`40%`&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;`99.83%`&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;`3`&nbsp;&nbsp;&nbsp;&nbsp; |
-|:---:|:---:|:---:|:---:|:---:|
-| Records processed per pipeline run at Flipkart | Reduction in pricing inconsistencies across 300K+ records | Faster production issue resolution | Test accuracy on cancer detection research | Research papers (1 published · 2 under review) |
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+AI+that+generalizes+beyond+training+data;⚡+2M%2B+records+processed+at+Flipkart+production;🧠+ViT+%2B+DANN+%3D+99.83%25+cancer+detection+accuracy;🔍+RAG+hallucinations%3A+40%25+→+0%25+via+chunking+strategy;📍+Bengaluru+%7C+Open+to+AI%2FML+Roles+%26+Research)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,174 +25,339 @@
 
 ---
 
-<!--  ═══════════════  ABOUT  ═══════════════ -->
+<!-- IMPACT METRICS BANNER -->
+<div align="center">
 
-## &nbsp;`$ whoami`
+### 🏆 &nbsp; By The Numbers
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/2M%2B-Records-6366F1?style=for-the-badge&logo=databricks&logoColor=white" /><br/>
+      <sub><b>Pipeline Scale @ Flipkart</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/99.83%25-Accuracy-10B981?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
+      <sub><b>Cancer Detection Model</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/40%25→0%25-Hallucination-F59E0B?style=for-the-badge&logo=openai&logoColor=white" /><br/>
+      <sub><b>RAG Quality Research</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/3-Papers-EC4899?style=for-the-badge&logo=googlescholar&logoColor=white" /><br/>
+      <sub><b>Published + Under Review</b></sub>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/30%25-Less+Errors-14B8A6?style=for-the-badge&logo=checkmarx&logoColor=white" /><br/>
+      <sub><b>Pricing Inconsistencies ↓</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ABOUT ME - TERMINAL STYLE -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; About Me
 
 ```python
-harish = {
-    "role"       : "Software Engineer & AI/ML Engineer",
-    "currently"  : "M.E. Computer Science @ MSIS Manipal (Distinction)",
-    "previously" : "SDE @ Flipkart · Data Science Intern @ Simplilearn · Web Dev @ Tequed Labs",
-    "building"   : ["RAG Systems", "Agentic AI", "Deep Learning Models", "Backend Pipelines"],
-    "research"   : ["Vision Transformers", "RAG Retrieval Quality", "Demand Forecasting (Published)"],
-    "looking_for": "AI/ML Internships · SWE Roles · Research Collaborations",
-    "fun_fact"   : "Reduced hallucination in RAG from 40% → 0% by fixing one overlooked step: chunking"
-}
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────────
+#  HARISH KUMAR D  |  harishkumard24  |  Bengaluru
+# ─────────────────────────────────────────────────
+
+class HarishKumarD:
+    
+    def __init__(self):
+        self.name        = "Harish Kumar D"
+        self.education   = "M.E. CS @ MSIS Manipal (Distinction)  |  B.E. @ DSATM Bengaluru"
+        self.experience  = "2+ years — Flipkart · Simplilearn · Tequed Labs · [24]7.ai"
+        self.domain      = ["Backend Engineering", "AI/ML", "Generative AI", "RAG Systems"]
+        self.research    = ["Vision Transformers", "Domain Adversarial Learning",
+                            "RAG Chunking", "Demand Forecasting (Published — IJRAR 2023)"]
+        self.currently   = "Building agentic AI systems + pursuing M.E. research"
+        self.open_to     = "AI/ML Internships  ·  SWE Roles  ·  Research Collaborations"
+
+    def fun_fact(self) -> str:
+        return "I found that chunking strategy — not model size — was killing RAG quality."
+
+    def contact(self) -> dict:
+        return {
+            "email"   : "harishkumard12@gmail.com",
+            "linkedin": "linkedin.com/in/harishkumard12",
+            "github"  : "github.com/harishkumard24"
+        }
+
+me = HarishKumarD()
+print(me.fun_fact())
+# → "I found that chunking strategy — not model size — was killing RAG quality."
 ```
 
 <br/>
 
 ---
 
-<!--  ═══════════════  EXPERIENCE  ═══════════════ -->
+<!-- EXPERIENCE -->
 
-## &nbsp;⚡ Experience
-
-<table width="100%">
-<tr>
-<td width="3%" style="background:#58A6FF"></td>
-<td width="97%" style="padding-left:16px">
-
-### 🟠 &nbsp; Software Development Engineer &nbsp;—&nbsp; **Flipkart**
-> *Netscribes Data & Insights Pvt. Ltd. (Payroll) &nbsp;|&nbsp; Bengaluru &nbsp;|&nbsp; Jan 2025 – Aug 2025*
-
-Embedded in Flipkart's pricing infrastructure team, I owned backend automation for the **Rate Card system** — a revenue-critical pipeline running at 2-million-record scale.
-
-- 🔁 &nbsp; Engineered automated pipelines processing **up to 2M records per run** for high-throughput pricing operations
-- ✅ &nbsp; Cut pricing inconsistencies by **30%** across 300K+ records through automated validation logic
-- 🐛 &nbsp; Slashed production issue resolution time by **40%** via automated log analysis and structured debugging
-- 🧩 &nbsp; Designed modular backend components that significantly reduced manual intervention in pricing workflows
-
-</td>
-</tr>
-</table>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Experience
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="3%" style="background:#8B5CF6"></td>
-<td width="97%" style="padding-left:16px">
-
-### 🟣 &nbsp; Data Science Intern &nbsp;—&nbsp; **Simplilearn**
-> *Jun 2024 – Dec 2024*
-
-Applied Python, Pandas, NumPy, SQL, and scikit-learn across EDA, feature engineering, and supervised ML model building. Delivered insights via Power BI and Matplotlib dashboards.
-
-</td>
-</tr>
-</table>
-
+<details open>
+<summary><img src="https://img.shields.io/badge/🟠_Flipkart_—_Software_Development_Engineer-FF9500?style=for-the-badge&logoColor=white" /></summary>
 <br/>
 
-<table width="100%">
-<tr>
-<td width="3%" style="background:#22C55E"></td>
-<td width="97%" style="padding-left:16px">
+> **Netscribes Data & Insights Pvt. Ltd. (Payroll)** &nbsp;·&nbsp; Bengaluru &nbsp;·&nbsp; `Jan 2025 – Aug 2025`
 
-### 🔵 &nbsp; Web Development Intern &nbsp;—&nbsp; **Tequed Labs**
-> *Feb 2024 – Dec 2024*
-
-Built a full-stack Vehicle Rental Management System (PHP · MySQL · JavaScript · AJAX · jQuery) with auth, booking workflows, CRUD-optimised DB architecture, and end-to-end testing.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!--  ═══════════════  RESEARCH  ═══════════════ -->
-
-## &nbsp;🔬 Research
-
-> *Where engineering meets scientific rigour*
-
-<br/>
-
-**`[1]`** &nbsp; **Generalized Cancer Detection from Histopathology Images using Deep Learning**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Manuscript under review · Aug – Dec 2025*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vision Transformer (ViT-B/16) + Domain-Adversarial Neural Networks for cross-domain generalization.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`99.83% accuracy` &nbsp; `0.9995 AUROC` &nbsp; `99.60% cross-domain (10-fold CV)`
-
----
-
-**`[2]`** &nbsp; **Chunking Is the Real Bottleneck in RAG**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Manuscript under review · Sept – Dec 2025*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systematic evaluation of chunking strategies and their outsized impact on retrieval quality and hallucination.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Recall@10: 92%` &nbsp; `MRR: 0.58` &nbsp; `nDCG: 0.66` &nbsp; `Hallucinations: 40% → 0%`
-
----
-
-**`[3]`** &nbsp; **Demand Forecasting and Sales Prediction**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Published · IJRAR Vol.10, Issue 2 · 2023*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Boosting ensemble (ARIMA + LSTM + SVR + 9 time-series models) with dynamic weight assignment. MLflow-tracked.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Validated on real-world food industry datasets` &nbsp; `MAE · RMSE · MAPE`
-
-<br/>
-
----
-
-<!--  ═══════════════  PROJECTS  ═══════════════ -->
-
-## &nbsp;🚀 Projects
-
-<br/>
-
-| &nbsp; | Project | What it does | Stack | Result |
-|:---:|---|---|---|---|
-| 🧬 | [**Cancer Detection**](https://github.com/harishkumard24/Generalized-Cancer-Detection-from-Histopathology-Images-using-Deep-Learning) | Cross-domain histopathology image classification | ViT-B/16 · DANN · TF | 99.83% acc |
-| 🕵️ | [**Agentic FIR Intelligence**](https://github.com/harishkumard24/Agentic-AI-for-Crime-Analysis-FIR-Intelligence-System-) | Multilingual crime-data querying over 14,990 FIRs | RAG · ChromaDB · SQLite · LLMs | 96.7% routing acc |
-| 📉 | [**Telecom Churn ML**](https://github.com/harishkumard24/Telecom-Churn-Prediction-Retention-Strategy-using-ML) | Recall-optimised churn prediction pipeline | scikit-learn · Power BI | Retention insights |
-| ⚙️ | [**Flipkart VM Automation**](https://github.com/harishkumard24/flipkart-vm-automation) | Production VM cleanup & retail data automation | Python · Linux · Bash | Used at Flipkart |
-| 🧠 | **ContextBridge** *(private)* | Multi-LLM graph-based memory orchestration | MCP · Graph DB · LLMs | 40% token reduction |
-
-<br/>
-
----
-
-<!--  ═══════════════  SKILLS  ═══════════════ -->
-
-## &nbsp;🛠️ Tech Stack
-
-<br/>
+Embedded within Flipkart's pricing infrastructure — owned backend automation for the **Rate Card system**, a revenue-critical pipeline operating at 2-million-record scale.
 
 ```
-LANGUAGES       Python · Java · C · C++ · SQL · JavaScript · PHP
-AI / ML         TensorFlow · scikit-learn · Pandas · NumPy · MLflow
-GENAI & RAG     LLMs · RAG Pipelines · ChromaDB · Agentic AI · MCP Protocol
-BACKEND         REST APIs · Linux · Git · Bash · AJAX · jQuery
-CLOUD / DEVOPS  AWS · Azure · Docker · Kubernetes · CI/CD · Power BI
-DATABASES       PostgreSQL · MySQL · SQLite · Database Design
-CONCEPTS        DSA · OOP · OS · DBMS · System Design · Root Cause Analysis
+✦  Built automated pipelines → processed up to 2,000,000 records per run
+✦  Cut pricing inconsistencies by 30% across 300K+ records via automated validation
+✦  Reduced production issue resolution time by 40% through automated log analysis
+✦  Designed modular backend components that eliminated manual pricing workflow steps
 ```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🟣_Simplilearn_—_Data_Science_Intern-8B5CF6?style=for-the-badge&logoColor=white" /></summary>
+<br/>
+
+> `Jun 2024 – Dec 2024`
+
+Built and evaluated supervised ML models using Python, scikit-learn, Pandas, NumPy. Delivered business insights via Power BI and Matplotlib dashboards across structured datasets.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</details>
+
+<br/>
+
+<details>
+<summary><img src="https://img.shields.io/badge/🔵_Tequed_Labs_—_Web_Development_Intern-3B82F6?style=for-the-badge&logoColor=white" /></summary>
+<br/>
+
+> `Feb 2024 – Dec 2024`
+
+Full-stack Vehicle Rental Management System with secure auth, booking engine, and optimised relational DB — built in PHP, MySQL, JavaScript, AJAX, jQuery.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</details>
 
 <br/>
 
 ---
 
-<!--  ═══════════════  STATS  ═══════════════ -->
+<!-- RESEARCH -->
 
-## &nbsp;📊 GitHub Activity
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"> &nbsp; Research
+
+<br/>
 
 <div align="center">
+
+| # | Title | Status | Key Results |
+|:---:|---|:---:|---|
+| `[1]` | **Generalized Cancer Detection from Histopathology Images** using ViT-B/16 + DANN | 🟡 Under Review | `99.83% acc` · `0.9995 AUROC` · `99.60% cross-domain` |
+| `[2]` | **Chunking Is the Real Bottleneck in RAG** — multi-strategy retrieval evaluation | 🟡 Under Review | `Recall@10: 92%` · `Hallucination: 40%→0%` |
+| `[3]` | **Demand Forecasting & Sales Prediction** — boosting ensemble (ARIMA+LSTM+SVR) | ✅ Published IJRAR Vol.10 | `Validated MAE/RMSE/MAPE on real industry data` |
+
+</div>
+
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumard24&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumard24&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="165"/>
+---
+
+<!-- PROJECTS -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Projects
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧬 [Cancer Detection — Deep Learning](https://github.com/harishkumard24/Generalized-Cancer-Detection-from-Histopathology-Images-using-Deep-Learning)
+
+Cross-domain histopathology classification using Vision Transformers and domain-adversarial training.
+
+![](https://img.shields.io/badge/Accuracy-99.83%25-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/AUROC-0.9995-blue?style=flat-square)
+![](https://img.shields.io/badge/Cross--Domain-99.60%25-purple?style=flat-square)
+
+`ViT-B/16` · `DANN` · `TensorFlow` · `Medical AI`
+
+</td>
+<td align="center" width="50%">
+
+### 🕵️ [Agentic AI — FIR Intelligence System](https://github.com/harishkumard24/Agentic-AI-for-Crime-Analysis-FIR-Intelligence-System-)
+
+Multilingual agentic RAG over 14,990 FIR crime records. Hybrid SQL + vector retrieval.
+
+![](https://img.shields.io/badge/Intent_Acc-93.3%25-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Routing_Acc-96.7%25-blue?style=flat-square)
+
+`RAG` · `ChromaDB` · `SQLite` · `LLMs` · `Agentic AI`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📐 Chunking Is the Real Bottleneck in RAG
+
+Systematic RAG evaluation pipeline — chunking strategy drives hallucination rate.
+
+![](https://img.shields.io/badge/Recall@10-92%25-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/Hallucination-0%25_(↓40%25)-orange?style=flat-square)
+
+`RAG` · `NLP` · `Retrieval Eval` · `LLMs`
+
+</td>
+<td align="center" width="50%">
+
+### 📉 [Telecom Churn Prediction](https://github.com/harishkumard24/Telecom-Churn-Prediction-Retention-Strategy-using-ML)
+
+Recall-optimised ML pipeline for churn with Power BI retention dashboards.
+
+`scikit-learn` · `Feature Engineering` · `Power BI`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ [Flipkart VM Automation](https://github.com/harishkumard24/flipkart-vm-automation)
+
+Production-grade VM cleanup & retail data upload automation from Flipkart.
+
+`Python` · `Linux` · `Bash` · `Backend Automation`
+
+</td>
+<td align="center" width="50%">
+
+### 🧠 ContextBridge *(private)*
+
+Graph-based memory orchestration across multi-LLM sessions. MCP-compatible.
+
+![](https://img.shields.io/badge/Token_Reduction-40%25-blueviolet?style=flat-square)
+
+`MCP` · `Graph Memory` · `LLMs` · `Agentic Systems`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<!-- TECH STACK -->
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Tech Stack
+
+<br/>
+
+<div align="center">
+
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<br/>
+
+**AI · ML · Research**<br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+<br/>
+
+**Generative AI · RAG**<br/>
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG_Pipelines-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-22C55E?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**Cloud · DevOps · Backend**<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+**Databases**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- GITHUB STATS -->
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; GitHub Stats
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harishkumard24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F59E0B&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true&count_private=true" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumard24&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&stroke=A78BFA" width="48%" />
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkumard24&bg_color=0D1117&color=58A6FF&line=1f6feb&point=58A6FF&area_color=1f6feb&area=true&hide_border=true&radius=6)](https://github.com/harishkumard24)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumard24&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="38%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=harishkumard24&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact" width="55%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harishkumard24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkumard24&bg_color=0D1117&color=A78BFA&line=6366F1&point=F59E0B&area_color=6366F1&area=true&hide_border=true&custom_title=Contribution+Activity)](https://github.com/harishkumard24)
 
 </div>
 
@@ -211,61 +365,68 @@ CONCEPTS        DSA · OOP · OS · DBMS · System Design · Root Cause Analysis
 
 ---
 
-<!--  ═══════════════  EDUCATION & CERTS  ═══════════════ -->
+<!-- SNAKE ANIMATION -->
 
-## &nbsp;🎓 Education &nbsp;&nbsp;&&nbsp;&nbsp; 🏅 Certifications
+## 🐍 &nbsp; Contribution Snake
 
-<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishkumard24/harishkumard24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishkumard24/harishkumard24/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/harishkumard24/harishkumard24/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Education**
-
-🎓 &nbsp; **M.E. Computer Science** — *Distinction*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MSIS Manipal (MAHE) · *Ongoing*
-
-🎓 &nbsp; **B.E. Engineering** — *First Class*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DSATM, Bengaluru · *2024*
-
-</td>
-<td width="50%" valign="top">
-
-**Certifications**
-
-`2025` &nbsp; Generative AI with LLMs — *DeepLearning.AI & AWS*
-`2024` &nbsp; Data Scientist Master Cert — *Simplilearn*
-`2024` &nbsp; Python for Data Science — *IBM*
-`2023` &nbsp; Data Science & ML Bootcamp — *ElectroCloud Labs*
-`2022` &nbsp; AI in Cyber Security — *NCDRC*
-
-</td>
-</tr>
-</table>
+> **Enable the snake:** Add a GitHub Actions workflow — [click here for the setup guide](https://github.com/Platane/snk)
 
 <br/>
 
 ---
 
-<!--  ═══════════════  FOOTER  ═══════════════ -->
+<!-- EDUCATION & CERTS -->
+
+## 🎓 &nbsp; Education &nbsp;+&nbsp; Certifications
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🎓 Education**
+
+| Degree | Institution | Grade |
+|---|---|:---:|
+| M.E. Computer Science | MSIS Manipal (MAHE) | **Distinction** |
+| B.E. Engineering | DSATM, Bengaluru | **First Class** |
+
+</td>
+<td valign="top" width="50%">
+
+**🏅 Certifications**
+
+| Year | Certification |
+|:---:|---|
+| `2025` | Generative AI with LLMs — *DeepLearning.AI & AWS* |
+| `2024` | Data Scientist Master — *Simplilearn* |
+| `2024` | Python for Data Science — *IBM* |
+| `2023` | Data Science & ML Bootcamp — *ElectroCloud* |
+| `2022` | AI in Cyber Security — *NCDRC* |
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<!-- FOOTER -->
 
 <div align="center">
 
-<br/>
-
-**Let's build something that matters.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harishkumard12)
-&nbsp;
-[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishkumard12@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=harishkumard24&style=flat-square&color=58A6FF&label=profile+views" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Build%20Something%20That%20Matters&fontSize=28&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Open%20to%20AI%2FML%20Internships%20·%20SWE%20Roles%20·%20Research%20Collaborations&descSize=14&descAlignY=78" width="100%"/>
 
 </div>
