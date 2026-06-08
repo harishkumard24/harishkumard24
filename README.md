@@ -422,6 +422,6 @@ Graph-based memory orchestration across multi-LLM sessions. MCP-compatible.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:001F3F,20:003566,40:00509D,60:0077B6,80:00B4D8,100:90E0EF&text=Let's%20Build%20Something%20That%20Matters&fontSize=28&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=Open%20to%20AI%2FML%20Internships%20•%20SWE%20Roles%20•%20Research%20Collaborations&descSize=13&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:001F3F,20:003566,40:00509D,60:0077B6,80:00B4D8,100:90E0EF&text=Let's%20Build%20Something%20That%20Matters&fontSize=28&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&desc=SWE%20Roles%20•%20Research%20Collaborations&descSize=13&descAlignY=75" width="100%"/>
 
 </div>
