@@ -17,7 +17,7 @@
 
 Product-minded software engineer and M.E. Computer Science postgraduate with nearly 2 years of experience across backend engineering, AI/ML systems, applied generative AI, and customer-facing product analysis.
 
-I like building systems that are measurable, reliable, and useful — backend pipelines that survive production scale, ML models evaluated beyond headline accuracy, and LLM applications designed around retrieval quality, context, and user trust.
+I like building systems that are measurable, reliable, and useful: backend pipelines that survive production scale, ML models evaluated beyond headline accuracy, and LLM applications designed around retrieval quality, context, and user trust.
 
 <div align="center">
 
@@ -41,32 +41,31 @@ I like building systems that are measurable, reliable, and useful — backend pi
 
 ## Experience
 
-### Flipkart — Backend Engineer
-**Netscribes Data & Insights Pvt. Ltd.** · Bengaluru · Jan 2025 – Aug 2025
+### Flipkart - Backend Engineer
+
+**Netscribes Data & Insights Pvt. Ltd.** | Bengaluru | Jan 2025 - Aug 2025
 
 - Built and maintained automated backend pipelines for Flipkart's revenue-critical Rate Card systems, processing up to **2 million records per run**.
 - Reduced pricing inconsistencies by **30% across 300K+ records** by automating validation and processing logic.
 - Reduced production issue resolution time by **40%** through automated log analysis and structured debugging.
 - Designed modular backend components that reduced manual intervention in large-scale pricing workflows.
 
-**Stack:** Python · SQL · Linux · REST APIs · Git · backend automation
+**Stack:** Python, SQL, Linux, REST APIs, Git, backend automation
 
----
+### Tequed Labs - AI/ML Intern
 
-### Tequed Labs — AI/ML Intern
-Feb 2024 – Jul 2024
+Feb 2024 - Jul 2024
 
 - Designed **ContextBridge**, a project-scoped memory orchestration system for reducing context fragmentation across multiple LLMs.
 - Built an MCP-compatible server, business logic layer, and graph-based knowledge store for dependency-aware retrieval.
 - Implemented scoped context retrieval and selective persistence to reduce token redundancy while preserving key architectural decisions.
 - Evaluated LLM output quality across retrieval configurations and iterated on prompt and memory architecture.
 
-**Stack:** Python · LLMs · MCP · graph memory · prompt evaluation · system design
+**Stack:** Python, LLMs, MCP, graph memory, prompt evaluation, system design
 
----
+### [24]7.ai - Product & Customer Experience Analyst
 
-### [24]7.ai — Product & Customer Experience Analyst
-Sept 2023 – Jan 2024
+Sept 2023 - Jan 2024
 
 - Analyzed support-ticket patterns to identify recurring user pain points, usability gaps, and unmet needs.
 - Collaborated with engineering and operations teams to communicate issue status and prioritize reliability improvements.
@@ -74,17 +73,17 @@ Sept 2023 – Jan 2024
 
 ---
 
-## Featured Projects
+## Featured Work
 
 <div align="center">
 
 | Project | What It Does | Highlights |
 |---|---|---|
-| [Generalized Cancer Detection](https://github.com/harishkumard24/Generalized-Cancer-Detection-from-Histopathology-Images-using-Deep-Learning) | Vision Transformer cancer classification with domain-adversarial learning | 99.83% accuracy · 0.9995 AUROC · 99.60% cross-domain validation |
-| [Agentic AI for Crime Analysis](https://github.com/harishkumard24/Agentic-AI-for-Crime-Analysis-FIR-Intelligence-System-) | Natural-language analytics over FIR crime records using SQL + vector retrieval | Bilingual Kannada/English querying · hybrid intent routing |
-| ContextBridge | Multi-LLM memory orchestration with graph-based project memory | 40% token redundancy reduction · MCP-compatible architecture |
-| [Telecom Churn Prediction](https://github.com/harishkumard24/Telecom-Churn-Prediction-Retention-Strategy-using-ML) | Churn prediction and retention insights with ML and dashboards | Model comparison · feature engineering · Power BI storytelling |
-| [Flipkart VM Automation](https://github.com/harishkumard24/flipkart-vm-automation) | VM cleanup and retail data upload automation | Python · Linux · Bash · production workflow automation |
+| [Generalized Cancer Detection](https://github.com/harishkumard24/Generalized-Cancer-Detection-from-Histopathology-Images-using-Deep-Learning) | Vision Transformer cancer classification with domain-adversarial learning | 99.83% accuracy, 0.9995 AUROC, 99.60% cross-domain validation |
+| [Agentic AI for Crime Analysis](https://github.com/harishkumard24/Agentic-AI-for-Crime-Analysis-FIR-Intelligence-System-) | Natural-language analytics over FIR crime records using SQL + vector retrieval | Bilingual Kannada/English querying, hybrid intent routing |
+| ContextBridge | Multi-LLM memory orchestration with graph-based project memory | 40% token redundancy reduction, MCP-compatible architecture |
+| [Telecom Churn Prediction](https://github.com/harishkumard24/Telecom-Churn-Prediction-Retention-Strategy-using-ML) | Churn prediction and retention insights with ML and dashboards | Model comparison, feature engineering, Power BI storytelling |
+| [Flipkart VM Automation](https://github.com/harishkumard24/flipkart-vm-automation) | VM cleanup and retail data upload automation | Python, Linux, Bash, production workflow automation |
 
 </div>
 
@@ -92,79 +91,106 @@ Sept 2023 – Jan 2024
 
 ## Research
 
-| Area | Status | Results |
+| Research Area | Status | Results |
 |---|---|---|
-| **Generalized Cancer Detection from Histopathology Images using Deep Learning** | Manuscript under review | 99.83% test accuracy · 0.9995 AUROC · 99.60% avg cross-domain accuracy |
-| **Chunking Is the Real Bottleneck in RAG** | Manuscript under review | 92% Recall@10 · 0.58 MRR · 0.66 nDCG · hallucination reduced ~40% → 0% |
-| **Demand Forecasting and Sales Prediction** | Published — IJRAR Vol. 10, Issue 2, 2023 | ARIMA + LSTM + SVR ensemble evaluated with MAE, RMSE, and MAPE |
+| **Generalized Cancer Detection from Histopathology Images using Deep Learning** | Manuscript under review | 99.83% test accuracy, 0.9995 AUROC, 99.60% average cross-domain accuracy |
+| **Chunking Is the Real Bottleneck in RAG** | Manuscript under review | 92% Recall@10, 0.58 MRR, 0.66 nDCG, hallucination reduced from about 40% to 0% |
+| **Demand Forecasting and Sales Prediction** | Published, IJRAR Vol. 10, Issue 2, 2023 | ARIMA + LSTM + SVR ensemble strategy evaluated with MAE, RMSE, and MAPE |
 
 ---
 
 ## Skills Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<div align="center">
 
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=flat&logoColor=white)
-![LLM Eval](https://img.shields.io/badge/LLM%20Eval-7C3AED?style=flat&logoColor=white)
-![Prompting](https://img.shields.io/badge/Prompting-5B21B6?style=flat&logoColor=white)
-![Hybrid Retrieval](https://img.shields.io/badge/Hybrid%20Retrieval-4C1D95?style=flat&logoColor=white)
+<table cellpadding="10">
+  <tr>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=py" width="44" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=java" width="44" alt="Java"/><br/><sub>Java</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=c" width="44" alt="C"/><br/><sub>C</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=cpp" width="44" alt="C++"/><br/><sub>C++</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML"/><br/><sub>HTML</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS"/><br/><sub>CSS</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/sql.png" width="44" alt="SQL"/><br/><sub>SQL</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="44" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=sklearn" width="44" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90" height="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="44" alt="Pandas"/><br/><sub>Pandas</sub></td>
+    <td align="center" width="90" height="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" alt="NumPy"/><br/><sub>NumPy</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/power-bi.png" width="44" alt="Power BI"/><br/><sub>Power BI</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="44" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="44" alt="Machine Learning"/><br/><sub>ML</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="44" alt="Data Analytics"/><br/><sub>Analytics</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/statistics.png" width="44" alt="EDA"/><br/><sub>EDA</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/data-configuration.png" width="44" alt="Feature Engineering"/><br/><sub>Feature Eng.</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="44" alt="Generative AI"/><br/><sub>GenAI</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/bot.png" width="44" alt="Agentic AI"/><br/><sub>Agentic AI</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/link.png" width="44" alt="LangChain"/><br/><sub>LangChain</sub></td>
+    <td align="center" width="90" height="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="44" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/database.png" width="44" alt="FAISS"/><br/><sub>FAISS</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/database.png" width="44" alt="ChromaDB"/><br/><sub>ChromaDB</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/lightning-bolt.png" width="44" alt="Groq"/><br/><sub>Groq</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/ios-filled/100/ffffff/chatgpt.png" width="44" alt="OpenAI API"/><br/><sub>OpenAI API</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/api-settings.png" width="44" alt="MCP"/><br/><sub>MCP</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/test-passed.png" width="44" alt="LLM Evaluation"/><br/><sub>LLM Eval</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/idea.png" width="44" alt="Prompt Strategies"/><br/><sub>Prompting</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/workflow.png" width="44" alt="RAG"/><br/><sub>RAG</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/search-more.png" width="44" alt="Hybrid Retrieval"/><br/><sub>Retrieval</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=mysql" width="44" alt="MySQL"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=sqlite" width="44" alt="SQLite"/><br/><sub>SQLite</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/database.png" width="44" alt="DBMS"/><br/><sub>DBMS</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/maintenance.png" width="44" alt="Database Management"/><br/><sub>DB Mgmt</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/data-in-both-directions.png" width="44" alt="Data Manipulation"/><br/><sub>Data Manip.</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/edit-property.png" width="44" alt="CRUD Operations"/><br/><sub>CRUD</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/api.png" width="44" alt="REST APIs"/><br/><sub>REST APIs</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=linux" width="44" alt="Linux"/><br/><sub>Linux</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=docker" width="44" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=aws" width="44" alt="AWS"/><br/><sub>AWS</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/deployment.png" width="44" alt="CI/CD"/><br/><sub>CI/CD</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code"/><br/><sub>VS Code</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=figma" width="44" alt="Figma"/><br/><sub>Figma</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=jquery" width="44" alt="jQuery"/><br/><sub>jQuery</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/javascript.png" width="44" alt="AJAX"/><br/><sub>AJAX</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=anaconda" width="44" alt="Anaconda"/><br/><sub>Anaconda</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="44" alt="Excel"/><br/><sub>Excel</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/microsoft-word-2019--v2.png" width="44" alt="Word"/><br/><sub>Word</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png" width="44" alt="PowerPoint"/><br/><sub>PowerPoint</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/code.png" width="44" alt="Data Structures and Algorithms"/><br/><sub>DSA</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/module.png" width="44" alt="Object-Oriented Programming"/><br/><sub>OOP</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/operating-system.png" width="44" alt="Operating Systems"/><br/><sub>OS</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/critical-thinking.png" width="44" alt="Analytical Thinking"/><br/><sub>Analytical</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/communication.png" width="44" alt="Communication"/><br/><sub>Communication</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/conference-call.png" width="44" alt="Stakeholder Collaboration"/><br/><sub>Stakeholders</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/collaboration.png" width="44" alt="Cross-Functional Collaboration"/><br/><sub>Cross-Functional</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/ios-filled/100/ffffff/chatgpt.png" width="44" alt="ChatGPT"/><br/><sub>ChatGPT</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="44" alt="Claude"/><br/><sub>Claude</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/google-logo.png" width="44" alt="Gemini"/><br/><sub>Gemini</sub></td>
+    <td align="center" width="90" height="90"><img src="https://img.icons8.com/color/96/bot.png" width="44" alt="Ollama"/><br/><sub>Ollama</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=pytorch" width="44" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=opencv" width="44" alt="OpenCV"/><br/><sub>OpenCV</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=fastapi" width="44" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=flask" width="44" alt="Flask"/><br/><sub>Flask</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=mongodb" width="44" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+    <td align="center" width="90" height="90"><img src="https://skillicons.dev/icons?i=azure" width="44" alt="Azure"/><br/><sub>Azure</sub></td>
+  </tr>
+</table>
 
-### Generative AI & LLM Tools
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1A1A2E?style=flat&logoColor=white)
-
-### Data & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-0EA5E9?style=flat&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-0284C7?style=flat&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-### Infrastructure & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat&logoColor=white)
-
-### Dev Environment
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
-### Core CS
-![DSA](https://img.shields.io/badge/DSA-1E293B?style=flat&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-0F172A?style=flat&logoColor=white)
-![OS](https://img.shields.io/badge/OS-334155?style=flat&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-475569?style=flat&logoColor=white)
+</div>
 
 ---
 
@@ -179,11 +205,11 @@ Sept 2023 – Jan 2024
 
 ## Certifications
 
-- **Human Factors & Usability Engineering: Designing for Humans** — Arizona State University, 2026
-- **Introduction to Front-End Development** — Meta, 2026
-- **Generative AI with Large Language Models** — DeepLearning.AI & AWS, 2025
-- **Python for Data Science** — IBM, 2024
-- **AI in Cyber Security** — National Cyber Defence Research Centre, 2022
+- Human Factors & Usability Engineering: Designing for Humans - Arizona State University, 2026
+- Introduction to Front-End Development - Meta, 2026
+- Generative AI with Large Language Models - DeepLearning.AI & AWS, 2025
+- Python for Data Science - IBM, 2024
+- AI in Cyber Security - National Cyber Defence Research Centre, 2022
 
 ---
 
