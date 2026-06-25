@@ -81,7 +81,7 @@ Sept 2023 - Jan 2024
 |---|---|---|
 | [Generalized Cancer Detection](https://github.com/harishkumard24/Generalized-Cancer-Detection-from-Histopathology-Images-using-Deep-Learning) | Vision Transformer cancer classification with domain-adversarial learning | 99.83% accuracy, 0.9995 AUROC, 99.60% cross-domain validation |
 | [Agentic AI for Crime Analysis](https://github.com/harishkumard24/Agentic-AI-for-Crime-Analysis-FIR-Intelligence-System-) | Natural-language analytics over FIR crime records using SQL + vector retrieval | Bilingual Kannada/English querying, hybrid intent routing |
-| ContextBridge | Multi-LLM memory orchestration with graph-based project memory | 40% token redundancy reduction, MCP-compatible architecture |
+| [ContextBridge](https://github.com/harishkumard24/Telecom-Churn-Prediction-Retention-Strategy-using-ML) | Multi-LLM memory orchestration with graph-based project memory | 40% token redundancy reduction, MCP-compatible architecture |
 | [Telecom Churn Prediction](https://github.com/harishkumard24/Telecom-Churn-Prediction-Retention-Strategy-using-ML) | Churn prediction and retention insights with ML and dashboards | Model comparison, feature engineering, Power BI storytelling |
 | [Flipkart VM Automation](https://github.com/harishkumard24/flipkart-vm-automation) | VM cleanup and retail data upload automation | Python, Linux, Bash, production workflow automation |
 
