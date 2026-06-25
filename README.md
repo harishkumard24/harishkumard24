@@ -103,11 +103,19 @@ Sept 2023 - Jan 2024
 
 <div align="center">
 
-**Core Engineering**
+**Programming & Core Engineering**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,linux,git,github,vscode&perline=11" alt="Core engineering skills" />
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,linux,git,github,vscode&perline=11" alt="Programming and core engineering skills" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/OOP-111827?style=flat-square&logoColor=white" alt="Object-Oriented Programming" />
+<img src="https://img.shields.io/badge/DSA-0F766E?style=flat-square&logoColor=white" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/Operating_Systems-374151?style=flat-square&logo=linux&logoColor=white" alt="Operating Systems" />
+<img src="https://img.shields.io/badge/DBMS-4338CA?style=flat-square&logoColor=white" alt="DBMS" />
 
 <br/><br/>
 
@@ -115,7 +123,7 @@ Sept 2023 - Jan 2024
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&perline=8" alt="AI ML and data skills" />
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,anaconda&perline=8" alt="AI ML and data skills" />
 
 <br/>
 
@@ -124,6 +132,11 @@ Sept 2023 - Jan 2024
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Machine_Learning-10B981?style=flat-square&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=flat-square&logoColor=white" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/EDA-7C3AED?style=flat-square&logoColor=white" alt="EDA" />
+<img src="https://img.shields.io/badge/Data_Visualization-F97316?style=flat-square&logoColor=white" alt="Data Visualization" />
+<img src="https://img.shields.io/badge/Feature_Engineering-0D9488?style=flat-square&logoColor=white" alt="Feature Engineering" />
 
 <br/><br/>
 
@@ -139,6 +152,11 @@ Sept 2023 - Jan 2024
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
 <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Agentic_AI-22C55E?style=flat-square&logoColor=white" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/LLM_Evaluation-0F172A?style=flat-square&logoColor=white" alt="LLM Evaluation" />
+<img src="https://img.shields.io/badge/Prompt_Strategies-DB2777?style=flat-square&logoColor=white" alt="Prompt Strategies" />
+<img src="https://img.shields.io/badge/Hybrid_Retrieval-0891B2?style=flat-square&logoColor=white" alt="Hybrid Retrieval" />
 
 <br/><br/>
 
@@ -146,14 +164,46 @@ Sept 2023 - Jan 2024
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite,mongodb,docker,aws&perline=8" alt="Backend data and deployment skills" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws&perline=8" alt="Backend data and deployment skills" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Data_Pipelines-0F766E?style=flat-square&logo=databricks&logoColor=white" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/Database_Design-4F46E5?style=flat-square&logoColor=white" alt="Database Design" />
+<img src="https://img.shields.io/badge/Database_Management-1D4ED8?style=flat-square&logoColor=white" alt="Database Management" />
+<img src="https://img.shields.io/badge/Data_Manipulation-059669?style=flat-square&logoColor=white" alt="Data Manipulation" />
+<img src="https://img.shields.io/badge/CRUD_Operations-DC2626?style=flat-square&logoColor=white" alt="CRUD Operations" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+
+<br/><br/>
+
+**Web, Tools & Productivity**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=figma&perline=8" alt="Web and productivity tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AJAX-2563EB?style=flat-square&logo=javascript&logoColor=white" alt="AJAX" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Word" />
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
+
+<br/><br/>
+
+**Professional Strengths**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Analytical_Thinking-111827?style=flat-square&logoColor=white" alt="Analytical Thinking" />
+<img src="https://img.shields.io/badge/Problem_Solving-0F766E?style=flat-square&logoColor=white" alt="Problem Solving" />
+<img src="https://img.shields.io/badge/Communication-2563EB?style=flat-square&logoColor=white" alt="Communication" />
+<img src="https://img.shields.io/badge/Stakeholder_Collaboration-9333EA?style=flat-square&logoColor=white" alt="Stakeholder Collaboration" />
+<img src="https://img.shields.io/badge/Cross--Functional_Collaboration-DB2777?style=flat-square&logoColor=white" alt="Cross-Functional Collaboration" />
 
 </div>
 
