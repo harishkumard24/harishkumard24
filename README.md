@@ -12,7 +12,7 @@
 </div>
 
 ---
-
+a
 ## Snapshot
 
 Product-minded software engineer and M.E. Computer Science postgraduate with nearly 2 years of experience across backend engineering, AI/ML systems, applied generative AI, and customer-facing product analysis.
