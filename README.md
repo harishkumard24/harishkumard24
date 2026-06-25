@@ -103,107 +103,93 @@ Sept 2023 - Jan 2024
 
 <div align="center">
 
-**Programming & Core Engineering**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,linux,git,github,vscode&perline=11" alt="Programming and core engineering skills" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/OOP-111827?style=flat-square&logoColor=white" alt="Object-Oriented Programming" />
-<img src="https://img.shields.io/badge/DSA-0F766E?style=flat-square&logoColor=white" alt="Data Structures and Algorithms" />
-<img src="https://img.shields.io/badge/Operating_Systems-374151?style=flat-square&logo=linux&logoColor=white" alt="Operating Systems" />
-<img src="https://img.shields.io/badge/DBMS-4338CA?style=flat-square&logoColor=white" alt="DBMS" />
-
-<br/><br/>
-
-**AI, ML & Data**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,anaconda&perline=8" alt="AI ML and data skills" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" alt="Matplotlib" />
-<img src="https://img.shields.io/badge/Machine_Learning-10B981?style=flat-square&logoColor=white" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Data_Analytics-2563EB?style=flat-square&logoColor=white" alt="Data Analytics" />
-<img src="https://img.shields.io/badge/EDA-7C3AED?style=flat-square&logoColor=white" alt="EDA" />
-<img src="https://img.shields.io/badge/Data_Visualization-F97316?style=flat-square&logoColor=white" alt="Data Visualization" />
-<img src="https://img.shields.io/badge/Feature_Engineering-0D9488?style=flat-square&logoColor=white" alt="Feature Engineering" />
-
-<br/><br/>
-
-**GenAI, RAG & Agentic Systems**
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square&logoColor=white" alt="FAISS" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/Generative_AI-9333EA?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
-<img src="https://img.shields.io/badge/Agentic_AI-22C55E?style=flat-square&logoColor=white" alt="Agentic AI" />
-<img src="https://img.shields.io/badge/LLM_Evaluation-0F172A?style=flat-square&logoColor=white" alt="LLM Evaluation" />
-<img src="https://img.shields.io/badge/Prompt_Strategies-DB2777?style=flat-square&logoColor=white" alt="Prompt Strategies" />
-<img src="https://img.shields.io/badge/Hybrid_Retrieval-0891B2?style=flat-square&logoColor=white" alt="Hybrid Retrieval" />
-
-<br/><br/>
-
-**Backend, Data & Deployment**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws&perline=8" alt="Backend data and deployment skills" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Data_Pipelines-0F766E?style=flat-square&logo=databricks&logoColor=white" alt="Data Pipelines" />
-<img src="https://img.shields.io/badge/Database_Design-4F46E5?style=flat-square&logoColor=white" alt="Database Design" />
-<img src="https://img.shields.io/badge/Database_Management-1D4ED8?style=flat-square&logoColor=white" alt="Database Management" />
-<img src="https://img.shields.io/badge/Data_Manipulation-059669?style=flat-square&logoColor=white" alt="Data Manipulation" />
-<img src="https://img.shields.io/badge/CRUD_Operations-DC2626?style=flat-square&logoColor=white" alt="CRUD Operations" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-
-<br/><br/>
-
-**Web, Tools & Productivity**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=figma&perline=8" alt="Web and productivity tools" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AJAX-2563EB?style=flat-square&logo=javascript&logoColor=white" alt="AJAX" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Word" />
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
-
-<br/><br/>
-
-**Professional Strengths**
-
-<br/>
-
-<img src="https://img.shields.io/badge/Analytical_Thinking-111827?style=flat-square&logoColor=white" alt="Analytical Thinking" />
-<img src="https://img.shields.io/badge/Problem_Solving-0F766E?style=flat-square&logoColor=white" alt="Problem Solving" />
-<img src="https://img.shields.io/badge/Communication-2563EB?style=flat-square&logoColor=white" alt="Communication" />
-<img src="https://img.shields.io/badge/Stakeholder_Collaboration-9333EA?style=flat-square&logoColor=white" alt="Stakeholder Collaboration" />
-<img src="https://img.shields.io/badge/Cross--Functional_Collaboration-DB2777?style=flat-square&logoColor=white" alt="Cross-Functional Collaboration" />
+<table>
+  <tr>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=py" width="42" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/><sub>Java</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=c" width="42" alt="C"/><br/><sub>C</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"/><br/><sub>C++</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"/><br/><sub>HTML</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"/><br/><sub>CSS</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="SQL"/><br/><sub>SQL</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=tensorflow" width="42" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=sklearn" width="42" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/pandas/150458" width="42" alt="Pandas"/><br/><sub>Pandas</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/numpy/013243" width="42" alt="NumPy"/><br/><sub>NumPy</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/mlflow/0194E2" width="42" alt="MLflow"/><br/><sub>MLflow</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" alt="Power BI"/><br/><sub>Power BI</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="42" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="42" alt="Machine Learning"/><br/><sub>Machine Learning</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="42" alt="Generative AI"/><br/><sub>Generative AI</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/bot.png" width="42" alt="Agentic AI"/><br/><sub>Agentic AI</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" alt="LangChain"/><br/><sub>LangChain</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="42" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/openai/412991" width="42" alt="OpenAI API"/><br/><sub>OpenAI API</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" alt="Hugging Face"/><br/><sub>Hugging Face</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/workflow.png" width="42" alt="RAG"/><br/><sub>RAG</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/search-more.png" width="42" alt="Hybrid Retrieval"/><br/><sub>Hybrid Retrieval</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/database.png" width="42" alt="FAISS"/><br/><sub>FAISS</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/database.png" width="42" alt="ChromaDB"/><br/><sub>ChromaDB</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/groq/F55036" width="42" alt="Groq"/><br/><sub>Groq</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/api-settings.png" width="42" alt="MCP"/><br/><sub>MCP</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/test-passed.png" width="42" alt="LLM Evaluation"/><br/><sub>LLM Evaluation</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/idea.png" width="42" alt="Prompt Strategies"/><br/><sub>Prompting</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="42" alt="Data Analytics"/><br/><sub>Data Analytics</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/statistics.png" width="42" alt="EDA"/><br/><sub>EDA</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/data-configuration.png" width="42" alt="Feature Engineering"/><br/><sub>Feature Eng.</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/data-visualization.png" width="42" alt="Data Visualization"/><br/><sub>Visualization</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/><br/><sub>MySQL</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=sqlite" width="42" alt="SQLite"/><br/><sub>SQLite</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/database.png" width="42" alt="DBMS"/><br/><sub>DBMS</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/database-administrator.png" width="42" alt="Database Design"/><br/><sub>DB Design</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/maintenance.png" width="42" alt="Database Management"/><br/><sub>DB Management</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/data-in-both-directions.png" width="42" alt="Data Manipulation"/><br/><sub>Data Manip.</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/edit-property.png" width="42" alt="CRUD Operations"/><br/><sub>CRUD</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/api.png" width="42" alt="REST APIs"/><br/><sub>REST APIs</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/pipeline.png" width="42" alt="Data Pipelines"/><br/><sub>Pipelines</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"/><br/><sub>Linux</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br/><sub>Docker</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/><br/><sub>AWS</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="42" alt="CI/CD"/><br/><sub>CI/CD</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/><br/><sub>GitHub</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code"/><br/><sub>VS Code</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=figma" width="42" alt="Figma"/><br/><sub>Figma</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=jquery" width="42" alt="jQuery"/><br/><sub>jQuery</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/javascript.png" width="42" alt="AJAX"/><br/><sub>AJAX</sub></td>
+    <td align="center" width="86"><img src="https://skillicons.dev/icons?i=anaconda" width="42" alt="Anaconda"/><br/><sub>Anaconda</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" alt="Excel"/><br/><sub>Excel</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="42" alt="Word"/><br/><sub>Word</sub></td>
+    <td align="center" width="86"><img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="42" alt="PowerPoint"/><br/><sub>PowerPoint</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/code.png" width="42" alt="DSA"/><br/><sub>DSA</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/module.png" width="42" alt="OOP"/><br/><sub>OOP</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/operating-system.png" width="42" alt="Operating Systems"/><br/><sub>OS</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/critical-thinking.png" width="42" alt="Analytical Thinking"/><br/><sub>Analytical</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/solve.png" width="42" alt="Problem Solving"/><br/><sub>Problem Solving</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/communication.png" width="42" alt="Communication"/><br/><sub>Communication</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/conference-call.png" width="42" alt="Stakeholder Collaboration"/><br/><sub>Stakeholders</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/collaboration.png" width="42" alt="Cross-Functional Collaboration"/><br/><sub>Cross-Functional</sub></td>
+    <td align="center" width="86"><img src="https://img.icons8.com/color/96/teamwork.png" width="42" alt="Collaboration"/><br/><sub>Collaboration</sub></td>
+  </tr>
+</table>
 
 </div>
 
