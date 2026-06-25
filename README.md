@@ -99,13 +99,63 @@ Sept 2023 - Jan 2024
 
 ---
 
-## Tech I Actually Use
+## Skills Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,flask,postgres,mongodb,docker,git,github,c,cpp,java,js,html,css,vscode,linux,anaconda,selenium,figma&perline=12" alt="Tech stack" />
-</p>
+<div align="center">
 
-**LLM / RAG toolkit:** LangChain · Streamlit · FAISS · ChromaDB · Hugging Face · Groq · OpenAI API
+**Core Engineering**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,html,css,linux,git,github,vscode&perline=11" alt="Core engineering skills" />
+
+<br/><br/>
+
+**AI, ML & Data**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&perline=8" alt="AI ML and data skills" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" alt="Matplotlib" />
+
+<br/><br/>
+
+**GenAI, RAG & Agentic Systems**
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logoColor=white" alt="MCP" />
+
+<br/><br/>
+
+**Backend, Data & Deployment**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite,mongodb,docker,aws&perline=8" alt="Backend data and deployment skills" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Data_Pipelines-0F766E?style=flat-square&logo=databricks&logoColor=white" alt="Data Pipelines" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+
+</div>
 
 ---
 
