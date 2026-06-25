@@ -98,3 +98,46 @@ Sept 2023 - Jan 2024
 | **Demand Forecasting and Sales Prediction** | Published, IJRAR Vol. 10, Issue 2, 2023 | ARIMA + LSTM + SVR ensemble strategy evaluated with MAE, RMSE, and MAPE |
 
 ---
+
+## Technical Stack
+
+**Languages:** Python, SQL, Java, JavaScript, C, C++
+
+**AI / ML:** TensorFlow, scikit-learn, Pandas, NumPy, MLflow, feature engineering, model evaluation
+
+**Generative AI:** RAG, agentic AI, LLM evaluation, ChromaDB, hybrid retrieval, prompt strategies, MCP-compatible systems
+
+**Backend / Data:** REST APIs, Linux, Git, MySQL, PostgreSQL, SQLite, data pipelines, CRUD systems
+
+**Cloud / Tools:** AWS, Docker, CI/CD, Power BI, Matplotlib, Excel, Figma
+
+---
+
+## Education
+
+| Degree | Institution | Result |
+|---|---|---|
+| M.E. Computer Science and Engineering | Manipal School of Information Sciences, MAHE | Distinction |
+| B.E. Computer Science and Engineering | Dayananda Sagar Academy of Technology and Management, Bengaluru | First Class |
+
+---
+
+## Certifications
+
+- Human Factors & Usability Engineering: Designing for Humans - Arizona State University, 2026
+- Introduction to Front-End Development - Meta, 2026
+- Generative AI with Large Language Models - DeepLearning.AI & AWS, 2025
+- Python for Data Science - IBM, 2024
+- AI in Cyber Security - National Cyber Defence Research Centre, 2022
+
+---
+
+<div align="center">
+
+### Currently open to AI/ML, software engineering, research, and product-focused AI roles.
+
+I am especially interested in building applied AI systems where engineering quality, model behavior, and user experience all matter.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:111827,40:4F46E5,75:06B6D4,100:10B981&text=Let's%20Build%20Something%20Useful&fontSize=26&fontColor=FFFFFF&fontAlignY=58&animation=twinkling" width="100%"/>
+
+</div>
